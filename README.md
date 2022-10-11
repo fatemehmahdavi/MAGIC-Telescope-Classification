@@ -22,6 +22,6 @@ K-Nearest Neighbour (KNN)
 7. fM3Long: continuous # 3rd root of third moment along major axis [mm]
 8. fM3Trans: continuous # 3rd root of third moment along minor axis [mm]
 9. fAlpha: continuous # angle of major axis with vector to origin [deg]
-10. fDist: continuous # distance from origin to center of ellipse [mm]
-11. class: g,h # gamma (signal), hadron (background)
+ 10. fDist: continuous # distance from origin to center of ellipse [mm]
+ 11. class: g,h # gamma (signal), hadron (background)
 

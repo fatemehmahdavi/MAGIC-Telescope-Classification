@@ -1,7 +1,7 @@
 ## Classification of MAGIC Gamma Telescope Dataset
 There are high energy particles hitting the Gamma Telescope and there's a detector that records certain patterns of how light hits the camera and I used properties of those patterns in order to predict what type of particle caused the radiation, wether it was a Gamma particle or Hadron.
 
-This a Supervisied Learning problem. I compared four different Classification Algorithms on the MAGIC Gamma Telescope Dataset from the UCI Machine Learning Repository to classify the particles :
+This a Supervisied Learning problem. I compared four different Classification Algorithms on the [MAGIC Gamma Telescope Dataset](https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope) from the UCI Machine Learning Repository to classify the particles :
 
 Naive Bayes Classifier
 
